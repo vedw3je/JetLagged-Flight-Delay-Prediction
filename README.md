@@ -7,7 +7,7 @@ JetLagged is a cross-platform mobile application built with Flutter that predict
 ## 🚀 Features
 
 ### 1. **Flight Delay Prediction**
-- Users can input flight IATA number.
+- Users can enter the flight IATA number to get predicted delay time.
 - The app predicts the **estimated delay duration (in minutes)** using a trained machine learning model.
 - The model considers multiple features like distance, airport rating, airline rating, weather conditions, and more.
 
