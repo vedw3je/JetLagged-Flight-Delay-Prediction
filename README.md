@@ -56,7 +56,8 @@ JetLagged is a cross-platform mobile application built with Flutter that predict
 
 ---
 
-## 🔁 App Flow
+## 📊 Architecture Diagram
 
-> 📌 We'll upload an architecture diagram here.
+[View Architecture Diagram on Google Drive](https://drive.google.com/file/d/1KAe3V2dHWKqxl6Q2g0Muj-VslAHCCSH_/view?usp=sharing)
+
 
