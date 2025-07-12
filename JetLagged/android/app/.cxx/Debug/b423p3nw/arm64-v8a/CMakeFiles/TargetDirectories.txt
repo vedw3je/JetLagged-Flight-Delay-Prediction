@@ -1,0 +1,2 @@
+D:/flutter_projects/jetlagged/android/app/.cxx/Debug/b423p3nw/arm64-v8a/CMakeFiles/edit_cache.dir
+D:/flutter_projects/jetlagged/android/app/.cxx/Debug/b423p3nw/arm64-v8a/CMakeFiles/rebuild_cache.dir
